@@ -1,0 +1,8 @@
+Chocolate Bar(2 Bars)
+Milk(3/4th Glass)
+Condensed Milk(3 Table Spoons)
+Ice Cream(4 Scoops)
+Oreo Biscuits(5 Biscuits)
+Chocolate Powder(3 Tea Spoons)
+Ice Cubes(4 Ice Cubes)
+Hershey's Syrup(3 Tea Spoons)
